@@ -1,5 +1,5 @@
 # mslearn-typescript
-Repositório com os exercícios do treinamento de Typescript gratúito da Microsoft
+Repositório com os exercícios do treinamento de Typescript gratuito da Microsoft
 
 
 ## Microsoft Typescript
